@@ -1,0 +1,2 @@
+# terraform_single_ec2
+単一サーバにSSHアクセスできる構成
