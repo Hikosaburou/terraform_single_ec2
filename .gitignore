@@ -7,3 +7,10 @@
 
 # .tfvars files
 *.tfvars
+
+# SSH Keypair
+id_rsa
+id_rsa.pub
+
+# direnv
+.envrc
